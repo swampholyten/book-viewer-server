@@ -1,0 +1,113 @@
+[
+    {
+      "title": "Things Fall Apart",
+      "author": "Chinua Achebe",
+      "country": "Nigeria",
+      "imageLink": "things-fall-apart",
+      "language": "English",
+      "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart",
+      "pages": 209,
+      "descriptions": "A powerful novel exploring the clash between tradition and modernity in pre-colonial Nigeria, following Okonkwo's struggle with the arrival of British colonialism.",
+      "year": 1958
+    },
+    {
+      "title": "Fairy Tales",
+      "author": "Hans Christian Andersen",
+      "country": "Denmark",
+      "imageLink": "fairy-tales",
+      "language": "Danish",
+      "link": "https://en.wikipedia.org/wiki/Fairy_Tales_Told_for_Children._First_Collection.",
+      "pages": 784,
+      "descriptions": "A timeless collection of enchanting stories, including 'The Little Mermaid' and 'The Ugly Duckling.'",
+      "year": 1836
+    },
+    {
+      "title": "The Divine Comedy",
+      "author": "Dante Alighieri",
+      "country": "Italy",
+      "imageLink": "the-divine-comedy",
+      "language": "Italian",
+      "link": "https://en.wikipedia.org/wiki/Divine_Comedy",
+      "pages": 928,
+      "descriptions": "An epic poem about a journey through Hell, Purgatory, and Paradise, exploring themes of sin, redemption, and divine love.",
+      "year": 1315
+    },
+    {
+      "title": "The Epic of Gilgamesh",
+      "author": "Unknown",
+      "country": "Sumer and Akkadian Empire",
+      "imageLink": "the-epic-of-gilgamesh",
+      "language": "Akkadian",
+      "link": "https://en.wikipedia.org/wiki/Epic_of_Gilgamesh",
+      "pages": 160,
+      "descriptions": "One of the oldest surviving works of literature, this epic poem tells the story of Gilgamesh, a Mesopotamian king known for his strength and arrogance.",
+      "year": -1700
+    },
+    {
+      "title": "The Book of Job",
+      "author": "Unknown",
+      "country": "Achaemenid Empire",
+      "imageLink": "the-book-of-job",
+      "language": "Hebrew",
+      "link": "https://en.wikipedia.org/wiki/Book_of_Job",
+      "pages": 176,
+      "descriptions": "A thought-provoking story exploring the themes of faith and suffering, as Job, a righteous man, faces devastating hardships.",
+      "year": -600
+    },
+    {
+      "title": "One Thousand and One Nights",
+      "author": "Unknown",
+      "country": "India/Iran/Iraq/Egypt/Tajikistan",
+      "imageLink": "one-thousand-and-one-nights",
+      "language": "Arabic",
+      "link": "https://en.wikipedia.org/wiki/One_Thousand_and_One_Nights",
+      "pages": 288,
+      "descriptions": "A collection of enchanting stories featuring jinn, magic, and adventure, told by Scheherazade to save her own life.",
+      "year": 1200
+    },
+    {
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "country": "United Kingdom",
+      "imageLink": "pride-and-prejudice",
+      "language": "English",
+      "link": "https://en.wikipedia.org/wiki/Pride_and_Prejudice",
+      "pages": 226,
+      "descriptions": "A classic novel exploring themes of social class, love, and deception, following Elizabeth Bennet's journey through 19th-century England.",
+      "year": 1813
+    },
+    {
+      "title": "Le Père Goriot",
+      "author": "Honoré de Balzac",
+      "country": "France",
+      "imageLink": "le-pere-goriot",
+      "language": "French",
+      "link": "https://en.wikipedia.org/wiki/Le_P%C3%A8re_Goriot",
+      "pages": 443,
+      "descriptions": "A captivating novel exploring the dark side of Parisian society, centering around Père Goriot's selflessness and the greed of those around him.",
+      "year": 1835
+    },
+    {
+      "title": "Molloy, Malone Dies, The Unnamable",
+      "author": "Samuel Beckett",
+      "country": "Republic of Ireland",
+      "imageLink": "molloy-malone-dies-the-unnamable",
+      "language": "French, English",
+      "link": "https://en.wikipedia.org/wiki/Molloy_(novel)",
+      "pages": 256,
+      "descriptions": "A trilogy exploring themes of alienation, existence, and the human condition in an absurdist light, challenging readers with profound questions about life's meaning.",
+      "year": 1952
+    },
+    {
+      "title": "The Decameron",
+      "author": "Giovanni Boccaccio",
+      "country": "Italy",
+      "imageLink": "the-decameron",
+      "language": "Italian",
+      "link": "https://en.wikipedia.org/wiki/The_Decameron",
+      "pages": 1024,
+      "descriptions": "A collection of bawdy and entertaining tales set against the backdrop of the Black Death, offering a satirical commentary on medieval society.",
+      "year": 1351
+    }
+  ]
+  
